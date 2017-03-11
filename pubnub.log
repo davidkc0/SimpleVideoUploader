@@ -1,0 +1,46 @@
+# Logfile created on 2017-03-10 20:02:13 -0800 by logger.rb/53141
+I, [2017-03-10T20:02:13.241830 #36077]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-03-10T20:02:13.242961 #36077] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-03-10T20:02:13.243216 #36077] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-03-10T20:02:13.243263 #36077] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-03-10T20:02:13.244094 #36077] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-25683306-05fa-11e7-b34d-02ee2ddab7fe?timestamp=1489204933&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=205d9885-19c1-4044-aad8-8448881a3a9b&channel=video.*&signature=5y4Xokqzm3ZF1rO8VbsjO5WsTjTT70qXn3T7uGaSevk=
+D, [2017-03-10T20:02:13.290573 #36077] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-03-10T20:02:13.290882 #36077] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-03-10T20:02:13.291016 #36077] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-03-10T20:02:13.292200 #36077] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-03-10T20:02:13.292424 #36077] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-03-10T20:02:13.292470 #36077] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-03-10T20:02:13.293169 #36077] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-25683306-05fa-11e7-b34d-02ee2ddab7fe?timestamp=1489204933&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=205d9885-19c1-4044-aad8-8448881a3a9b&channel=video.*&signature=QqU47293G_KGJhwyZnPyb6niLKozqW1wDF4dCM5cpcc=
+D, [2017-03-10T20:02:13.315187 #36077] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-03-10T20:02:13.315787 #36077] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-03-10T20:02:13.315914 #36077] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-03-10T20:02:13.317240 #36077] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-03-10T20:02:13.317705 #36077] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-03-10T20:02:13.317821 #36077] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-03-10T20:02:13.318252 #36077] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-25683306-05fa-11e7-b34d-02ee2ddab7fe?timestamp=1489204933&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=205d9885-19c1-4044-aad8-8448881a3a9b&channel=notifications.*&signature=yisAXfNKO7iaMSm8JYfqnal_VjNt8V2D5PlLupAdofw=
+D, [2017-03-10T20:02:13.342428 #36077] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-03-10T20:02:13.342707 #36077] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-03-10T20:02:13.343244 #36077] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+E, [2017-03-10T20:02:33.015205 #36113] ERROR -- : Couldn't cleanly terminate all actors in 10 seconds!
+I, [2017-03-10T20:07:55.077320 #36246]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-03-10T20:07:55.078364 #36246] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-03-10T20:07:55.078642 #36246] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-03-10T20:07:55.078685 #36246] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-03-10T20:07:55.079169 #36246] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-25683306-05fa-11e7-b34d-02ee2ddab7fe?timestamp=1489205275&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=95533719-f3fe-4099-8647-20a60d18498b&channel=video.*&signature=r6Z-mQ20-Qw9U6vEDQrviR-N3FL-nwUi6ThzWnLVhSs=
+D, [2017-03-10T20:07:55.134625 #36246] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-03-10T20:07:55.134925 #36246] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-03-10T20:07:55.135080 #36246] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-03-10T20:07:55.135939 #36246] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-03-10T20:07:55.136150 #36246] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-03-10T20:07:55.136195 #36246] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-03-10T20:07:55.136483 #36246] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-25683306-05fa-11e7-b34d-02ee2ddab7fe?timestamp=1489205275&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=95533719-f3fe-4099-8647-20a60d18498b&channel=video.*&signature=PZRDAgye5bMLxSvpRrjTpffkGTt7wiQB5zVge1R47fg=
+D, [2017-03-10T20:07:55.175576 #36246] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-03-10T20:07:55.175801 #36246] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-03-10T20:07:55.175918 #36246] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-03-10T20:07:55.176715 #36246] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-03-10T20:07:55.176912 #36246] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-03-10T20:07:55.176967 #36246] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-03-10T20:07:55.177249 #36246] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-25683306-05fa-11e7-b34d-02ee2ddab7fe?timestamp=1489205275&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=95533719-f3fe-4099-8647-20a60d18498b&channel=notifications.*&signature=VfWQECsgCsMLiN_TMwNni80JQ0uxpukf3mRcepegdTY=
+D, [2017-03-10T20:07:55.195579 #36246] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-03-10T20:07:55.195798 #36246] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-03-10T20:07:55.195909 #36246] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
